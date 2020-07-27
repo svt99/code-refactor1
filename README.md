@@ -1,3 +1,3 @@
 # code-refactor1
-
+I went through the given code and made sure it was all in order. I then went through to make sure it met the accessibility standards. Mostly everything met the accessibilty standards except for the images on the website. After noticing the images werent meeting the standards I went ahead and redid the code, I used the HTML <img> ALT attribute to replace the html code that wasnt meeting the accessibility standards then included a short description of the images. After making the changes the website met the required standards.
 link to live site:[Code Refactor](https://svt99.github.io/code-refactor1/)
